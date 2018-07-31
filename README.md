@@ -1,4 +1,3 @@
-# MLCode-InMyFeelings
 
 ## CodingChallenge - InMyFeelings
 
@@ -18,3 +17,5 @@ In this repository, I've uploaded:
 2. [Librosa](https://librosa.github.io/librosa/index.html)
 3. [Deep Learning based Human Pose Estimation using OpenCV](https://www.learnopencv.com/deep-learning-based-human-pose-estimation-using-opencv-cpp-python/)
 4. [LSTM Networks - The Math of Intelligence](https://www.youtube.com/watch?v=9zhrxE5PQgY&t=749s)
+
+#### P.S> Not good enough AI, needs improvement :3
